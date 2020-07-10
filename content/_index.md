@@ -4,9 +4,11 @@ slug: /
 title: Homepage
 ---
 
-An official website of Bicha Group
+# Simplicity, Hugo theme.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-[Posts](/posts/) &bull;[Projects](/projects/)&bull; 
- [Categories](/categories/) &bull; 
+[Posts](/posts/) &bull; [Categories](/categories/) &bull; [Tags](/tags/)
+
+[Photos](/photos/) &bull; [Projects](/projects/)
 
