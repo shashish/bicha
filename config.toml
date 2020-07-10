@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 defaultContentLanguage = "en"
 disqusShortname = "test"
-enableEmoji = true
+#enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
@@ -11,7 +11,7 @@ pygmentsUseClasses =  true
 theme = "simplicity"
 title = "Bicha Group"
 [author]
-  gravatarEmail = "test@example.com"
+  gravatarEmail = "shashish.maharjan2017@gmail.com"
   homepageText = "Bicha Group"
   name = "Bicha Group"
   rss = "/posts/index.xml"
