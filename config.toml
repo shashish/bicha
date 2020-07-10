@@ -9,11 +9,11 @@ pygmentsCodeFences = true
 pygmentsStyle = "native"
 pygmentsUseClasses =  true
 theme = "simplicity"
-title = "Simplicity - Hugo theme"
+title = "Bicha Group"
 [author]
   gravatarEmail = "test@example.com"
-  homepageText = "Simplicity"
-  name = "Przemysław `eshlox` Kołodziejczyk"
+  homepageText = "Bicha Group"
+  name = "Bicha Group"
   rss = "/posts/index.xml"
 [imaging]
   anchor = "smart"
