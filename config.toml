@@ -1,7 +1,7 @@
-baseURL = "https://bicha.netlify.app"
+baseURL = "https://example.com"
 defaultContentLanguage = "en"
 disqusShortname = "test"
-#enableEmoji = true
+enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
@@ -11,7 +11,7 @@ pygmentsUseClasses =  true
 theme = "simplicity"
 title = "Bicha Group"
 [author]
-  gravatarEmail = "shashish.maharjan2017@gmail.com"
+  gravatarEmail = "test@example.com"
   homepageText = "Bicha Group"
   name = "Bicha Group"
   rss = "/posts/index.xml"
@@ -38,7 +38,7 @@ title = "Bicha Group"
 [params]
   adsenseClient = ''
   adsenseSlot = ''
-  description = "An official website of Bicha Group."
+  description = "A blog about everything."
   licence = "[Some Rights Reserved](http://creativecommons.org/licenses/by-sa/4.0/)."
   displayPostLanguage = true
 [permalinks]
