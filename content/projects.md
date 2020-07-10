@@ -8,8 +8,8 @@ title: Projects
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum lectus ornare ornare ultrices. Vivamus suscipit fringilla interdum. Nullam nisl dui, semper a sollicitudin vel, euismod eu risus. Pellentesque dignissim vel nunc nec condimentum. Nunc molestie ligula nec molestie faucibus. Aenean tincidunt sit amet leo quis cursus. Cras convallis lectus tincidunt pharetra condimentum. Aenean cursus consectetur massa sit amet volutpat. Aenean at arcu eget ligula dapibus volutpat in a sapien. Integer sed ex ex.
+We have done several projects, some of them are:
 
-1. Project 1.
-2. Project 2.
-3. Project 3.
+1. Photo book project
+2. Ward profile
+3. Photography training: Kipu-Kipa

@@ -38,7 +38,7 @@ title = "Bicha Group"
 [params]
   adsenseClient = ''
   adsenseSlot = ''
-  description = "A blog about everything."
+  description = "An official website of Bicha Group."
   licence = "[Some Rights Reserved](http://creativecommons.org/licenses/by-sa/4.0/)."
   displayPostLanguage = true
 [permalinks]

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/nsaf/Documents/shashish/bicha_web",
+	"sourceRoot": "/Users/nsaf/Documents/shashish/bicha",
 	"sources": [
 		"themes/simplicity/assets/src/styles/styles.scss",
 		"themes/simplicity/assets/src/styles/_chroma_friendly.scss",
